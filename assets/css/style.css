@@ -55,7 +55,7 @@
 body {
     font-family: var(--secondary-font);
     width: 100%;
-    background-image: url('/assets/images/body-bg.png.webp');
+    background-image: url('../images/body-bg.png.webp');
     background-repeat: no-repeat;
 }
 
@@ -219,7 +219,7 @@ p {
 .banner_wrapper {
     padding-top: 6.875rem;
     z-index: 1;
-    background: url('/assets/images/home-banner.png');
+    background: url('../images/home-banner.png');
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -275,7 +275,7 @@ p {
     position: absolute;
     top: -1.5625rem;
     left: -3.4375rem;
-    background: url('/assets/images/client-info.webp');
+    background: url('../images/client-info.webp');
     background-repeat: no-repeat;
     height: 10.9375rem;
     width: 10.9375rem;
